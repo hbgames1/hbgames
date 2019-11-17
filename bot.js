@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("645195007631949838")
+let channel =     client.channels.get("645730877501997089")
 setInterval(function() {
 channel.send(`joyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoyjoy
  هلاهلاهلاهلاهلاهلاهلاههلاهلا  كيف الحالكم بيخير وانت افضل يوتيوبر هلا بخير واواواووا`);
